@@ -1,6 +1,8 @@
 # Bird_Identification
 CSE455 Final Project
 
+https://user-images.githubusercontent.com/69477477/111740443-07804d00-8842-11eb-8b53-601805f3d6e4.mp4
+
 ## Introduction
 This is a repository for my bird classification model that I used to compete in the in-class Kaggle competition.
 
